@@ -26,5 +26,19 @@ cd Candy-crush
 # You can open it using your preferred browser:
 # - On Windows: double-click index.html
 # - On Mac: open index.html in Safari, Chrome, or another browser
-# - On Linux: open index.html using your preferred browser
+# - On Linux: open index.html using your preferred browser.
+
+## Contributing
+# Fork the repository on GitHub
+# Create a new branch for your changes
+git checkout -b my-new-feature
+
+# Make your changes and commit them
+git commit -am 'Add some feature'
+
+# Push to the branch
+git push origin my-new-feature
+
+# Create a new Pull Request on GitHub
+
 
