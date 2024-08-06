@@ -21,16 +21,16 @@ Candy Crush is a popular match-three puzzle game where players swap adjacent can
 3. Open index.html in your web browser to start the game.
 
 ## Usage
-# Open index.html in a web browser to play the Candy Crush game.
-# Use the mouse to interact with the game and make matches.
+Open index.html in a web browser to play the Candy Crush game.
+Use the mouse to interact with the game and make matches.
 
 ## Video
-# Watch Gameplay
+Watch Gameplay
 
 ## Contributing
-# Feel free to fork the repository and submit pull requests. If you have any issues or suggestions, please open an issue in the repository.
+Feel free to fork the repository and submit pull requests. If you have any issues or suggestions, please open an issue in the repository.
 
 ## Contact
-## For any questions or inquiries, please contact jhahritick@example.com.
-# You can copy and paste this template into your `README.md` file and adjust the details as needed.
+For any questions or inquiries, please contact jhahritick@example.com.
+You can copy and paste this template into your `README.md` file and adjust the details as needed.
 
