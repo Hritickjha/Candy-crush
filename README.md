@@ -23,9 +23,8 @@ git clone git@github.com:Hritickjha/Candy-crush.git
 cd Candy-crush
 
 # Open index.html in a web browser to play the game
-# You can open it using your preferred browser, for example:
+# You can open it using your preferred browser:
 # - On Windows: double-click index.html
 # - On Mac: open index.html in Safari, Chrome, or another browser
 # - On Linux: open index.html using your preferred browser
 
-### Contributing
